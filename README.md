@@ -18,4 +18,10 @@ Note, however, that in the event that the client does not trust Scientist Sally'
 
 ## Contents
 * notebook/Merkle_Trees.ipynb
-* notebook/Merkle_Trees.py
+* notebook/merkle_tree_example.py
+
+## Run
+```
+git clone https://github.com/dnck/merkle_tree_python_example.git && cd merkle_tree_python_example
+python ./py/merkle_tree_example.py
+```
